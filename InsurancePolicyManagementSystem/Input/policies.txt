@@ -1,0 +1,9 @@
+8
+G,GP101,Ravi Kumar,500000,10
+G,GP102,Sita Devi,1000000,0
+L,LP201,Anil Rao,2000000,52,true,20
+L,LP202,Meena Iyer,1500000,30,false,15
+L,LP203,Kiran Reddy,1000000,46,false,10
+L,LP204,Bad Age,1000000,17,false,10
+G,GP103,Bad Sum,0,0
+L,LP205,Bad Term,1000000,40,false,0

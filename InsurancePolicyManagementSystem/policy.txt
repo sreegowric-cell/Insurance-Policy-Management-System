@@ -1,0 +1,4 @@
+Policy Number: 1234
+Holder Name: tommy
+Age: 25
+Premium: Rs. 4000.0

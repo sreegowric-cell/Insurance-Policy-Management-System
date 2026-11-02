@@ -1,0 +1,52 @@
+INSURANCE POLICY PREMIUM REPORT
+--------------------------------
+
+Company Name: ABC Life Insurance
+Policy Number: GP101
+Holder Name: Ravi Kumar
+Sum Assured: 500000.00
+Premium: 10620.00
+
+Company Name: ABC Life Insurance
+Policy Number: GP102
+Holder Name: Sita Devi
+Sum Assured: 1000000.00
+Premium: 23600.00
+
+Company Name: ABC Life Insurance
+Policy Number: LP201
+Holder Name: Anil Rao
+Sum Assured: 2000000.00
+Premium: 63720.00
+
+Age: 52
+Smoker: true
+
+Maturity Amount: 3600000.00
+
+Company Name: ABC Life Insurance
+Policy Number: LP202
+Holder Name: Meena Iyer
+Sum Assured: 1500000.00
+Premium: 35400.00
+
+Age: 30
+Smoker: false
+
+Maturity Amount: 2400000.00
+
+Company Name: ABC Life Insurance
+Policy Number: LP203
+Holder Name: Kiran Reddy
+Sum Assured: 1000000.00
+Premium: 28320.00
+
+Age: 46
+Smoker: false
+
+Maturity Amount: 1400000.00
+
+Higher premium among first two: GP102
+Highest Premium Policy: LP201
+Policy Count: 6
+Records read: 8, accepted: 5, rejected: 3

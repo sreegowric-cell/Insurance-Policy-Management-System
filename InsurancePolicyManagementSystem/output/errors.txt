@@ -1,0 +1,19 @@
+Error Log - Mon Nov 02 20:35:18 IST 2026
+Line 7 | Record: L,LP204,Bad Age,1000000,17,false,10 | Exception: InvalidAgeException | Message: Age must be between 18 and 80.
+Line 8 | Record: G,GP103,Bad Sum,0,0 | Exception: InvalidSumAssuredException | Message: Sum assured must be greater than zero.
+Line 9 | Record: L,LP205,Bad Term,1000000,40,false,0 | Exception: InvalidTermException | Message: Maturity years must be greater than zero.
+Error Log - Mon Nov 02 20:41:51 IST 2026
+Line 7 | Record: L,LP204,Bad Age,1000000,17,false,10 | Exception: InvalidAgeException | Message: Age must be between 18 and 80.
+Line 8 | Record: G,GP103,Bad Sum,0,0 | Exception: InvalidSumAssuredException | Message: Sum assured must be greater than zero.
+Line 9 | Record: L,LP205,Bad Term,1000000,40,false,0 | Exception: InvalidTermException | Message: Maturity years must be greater than zero.
+Error Log - Mon Nov 02 21:00:36 IST 2026
+Line 4 | Record: L,LP201,Anil Rao,2000000,52,true,20 | Exception: InvalidSumAssuredException | Message: Sum assured must be greater than zero.
+Line 5 | Record: L,LP202,Meena Iyer,1500000,30,false,15 | Exception: InvalidSumAssuredException | Message: Sum assured must be greater than zero.
+Line 6 | Record: L,LP203,Kiran Reddy,1000000,46,false,10 | Exception: InvalidSumAssuredException | Message: Sum assured must be greater than zero.
+Line 7 | Record: L,LP204,Bad Age,1000000,17,false,10 | Exception: InvalidSumAssuredException | Message: Sum assured must be greater than zero.
+Line 8 | Record: G,GP103,Bad Sum,0,0 | Exception: InvalidSumAssuredException | Message: Sum assured must be greater than zero.
+Line 9 | Record: L,LP205,Bad Term,1000000,40,false,0 | Exception: InvalidSumAssuredException | Message: Sum assured must be greater than zero.
+Error Log - Mon Nov 02 21:07:32 IST 2026
+Line 7 | Record: L,LP204,Bad Age,1000000,17,false,10 | Exception: InvalidAgeException | Message: Age must be between 18 and 80.
+Line 8 | Record: G,GP103,Bad Sum,0,0 | Exception: InvalidSumAssuredException | Message: Sum assured must be greater than zero.
+Line 9 | Record: L,LP205,Bad Term,1000000,40,false,0 | Exception: InvalidTermException | Message: Maturity years must be greater than zero.
